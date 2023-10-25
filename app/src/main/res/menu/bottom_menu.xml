@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom1Fragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="BOTTOM 1" />
+
+    <item
+        android:id="@+id/bottom2Fragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="BOTTOM 2" />
+
+    <item
+        android:id="@+id/bottom3Fragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="BOTTOM 3" />
+</menu>
